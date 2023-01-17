@@ -9,4 +9,7 @@ O projeto para Sensores Inteligentes envolve uma aplicação para imagens digita
 Transfer Learning: https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/images/transfer_learning.ipynb
 
 A tarefa pode envolver a detecção de pragas em plantações, pessoas nas ruas, câncer de pele, frutos maduros em uma plantação, desmatamento, dentre outras situações.
+
+instalar yolo
+https://wandb.ai/onlineinference/YOLO/reports/YOLOv5-Object-Detection-on-Windows-Step-By-Step-Tutorial---VmlldzoxMDQwNzk4
 '''
