@@ -9,17 +9,16 @@ https://academiapme-my.sharepoint.com/personal/nubia_dio_me/_layouts/15/onedrive
 https://github.com/eltonfernando/telegramhomebot
 '''
 
-<<<<<<< HEAD
+
 import cv2
-=======
+
 import cv2 as cv
->>>>>>> origin/master
+
 import numpy as np
 import matplotlib.pyplot as plt
 from skimage import data
 import math
 
-<<<<<<< HEAD
 import requests
 
 url = 'https://3.bp.blogspot.com/-qE0UsNXwGu0/VZ4-TsieR3I/AAAAAAAALnE/ctM_JXsESSI/s1600/11214018_880253835401365_2061719325694284014_n.jpg'
@@ -36,7 +35,7 @@ plt.subplot(221)
 plt.imshow(img, cmap='gray')
 plt.title('original')
 plt.axis('off')
-=======
+
 faceId = cv.CascadeClassifier('haarcascade_frontalface_default.xml')
 
 image = cv.imread('image2.jpeg')
@@ -49,4 +48,3 @@ for(x,y,w,h) in faces:
 cv.imshow('imagem',image)
 cv.waitKey(0)
 cv.destroyAllWindows()
->>>>>>> origin/master
